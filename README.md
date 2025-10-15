@@ -1,4 +1,4 @@
-# ColorTetris - iOS Tetris Game
+# ColorTetris - iOS Tetris Game, vibe-coded with Claude Code!
 
 A colorful Tetris game for iOS with unique features!
 
